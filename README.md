@@ -3,4 +3,4 @@ Java Sokoban game source code
 
 http://zetcode.com/tutorials/javagamestutorial/sokoban/
 
-![Breakout game screenshot](breakout_game.png)
+![Sokoban game screenshot](sokoban_game.png)
